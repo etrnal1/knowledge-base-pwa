@@ -2,7 +2,7 @@ const CACHE_VERSION = 'kb-pwa-v5'
 const STATIC_CACHE = `knowledge-base-static-${CACHE_VERSION}`
 
 // 构建时由 vite 插件自动注入资源列表，不再运行时 fetch manifest
-const BUILD_ASSETS = ["./assets/index-nmwyywh3.js","./assets/index-C2kZGMGU.css"]
+const BUILD_ASSETS = ["./assets/index-BEDWXqK4.js","./assets/index-CjjHcfn2.css","./assets/pdf.worker.min-Ccmp4zKL.mjs"]
 
 const APP_SHELL = [
   './',

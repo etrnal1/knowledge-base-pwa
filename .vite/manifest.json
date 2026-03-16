@@ -1,11 +1,18 @@
 {
   "index.html": {
-    "file": "assets/index-nmwyywh3.js",
+    "file": "assets/index-BEDWXqK4.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/index-C2kZGMGU.css"
+      "assets/index-CjjHcfn2.css"
+    ],
+    "assets": [
+      "assets/pdf.worker.min-Ccmp4zKL.mjs"
     ]
+  },
+  "node_modules/pdfjs-dist/build/pdf.worker.min.mjs": {
+    "file": "assets/pdf.worker.min-Ccmp4zKL.mjs",
+    "src": "node_modules/pdfjs-dist/build/pdf.worker.min.mjs"
   }
 }
