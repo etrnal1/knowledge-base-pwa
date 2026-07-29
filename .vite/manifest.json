@@ -1,15 +1,31 @@
 {
   "index.html": {
-    "file": "assets/index-j1cBirFF.js",
+    "file": "assets/index-DOgpMS3k.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
+    "dynamicImports": [
+      "node_modules/@huggingface/transformers/dist/transformers.web.js"
+    ],
     "css": [
-      "assets/index-BS4_6NUc.css"
+      "assets/index-DYRWyQ-3.css"
     ],
     "assets": [
       "assets/pdf.worker.min-Ccmp4zKL.mjs"
     ]
+  },
+  "node_modules/@huggingface/transformers/dist/transformers.web.js": {
+    "file": "assets/transformers.web-DgfWyKDp.js",
+    "name": "transformers.web",
+    "src": "node_modules/@huggingface/transformers/dist/transformers.web.js",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/ort-wasm-simd-threaded.asyncify-DMmc6YqF.wasm"
+    ]
+  },
+  "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm": {
+    "file": "assets/ort-wasm-simd-threaded.asyncify-DMmc6YqF.wasm",
+    "src": "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm"
   },
   "node_modules/pdfjs-dist/build/pdf.worker.min.mjs": {
     "file": "assets/pdf.worker.min-Ccmp4zKL.mjs",
