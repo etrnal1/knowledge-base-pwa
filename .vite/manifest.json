@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-DhPLdowv.js",
+    "file": "assets/index-Dsqyhg1L.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -8,7 +8,7 @@
       "node_modules/@huggingface/transformers/dist/transformers.web.js"
     ],
     "css": [
-      "assets/index-DLP99zVW.css"
+      "assets/index-BeJJ59TT.css"
     ],
     "assets": [
       "assets/pdf.worker.min-Ccmp4zKL.mjs"
