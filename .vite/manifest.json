@@ -1,34 +1,34 @@
 {
-  "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/@huggingface/transformers/dist/transformers.web.js": {
+  "index.html": {
+    "file": "assets/index-Cc-93V4l.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/@huggingface/transformers/dist/transformers.web.js"
+    ],
+    "css": [
+      "assets/index-CmjYG-Kn.css"
+    ],
+    "assets": [
+      "assets/pdf.worker.min-Ccmp4zKL.mjs"
+    ]
+  },
+  "node_modules/@huggingface/transformers/dist/transformers.web.js": {
     "file": "assets/transformers.web-DgfWyKDp.js",
     "name": "transformers.web",
-    "src": "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/@huggingface/transformers/dist/transformers.web.js",
+    "src": "node_modules/@huggingface/transformers/dist/transformers.web.js",
     "isDynamicEntry": true,
     "assets": [
       "assets/ort-wasm-simd-threaded.asyncify-DMmc6YqF.wasm"
     ]
   },
-  "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm": {
+  "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm": {
     "file": "assets/ort-wasm-simd-threaded.asyncify-DMmc6YqF.wasm",
-    "src": "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm"
+    "src": "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm"
   },
-  "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/pdfjs-dist/build/pdf.worker.min.mjs": {
+  "node_modules/pdfjs-dist/build/pdf.worker.min.mjs": {
     "file": "assets/pdf.worker.min-Ccmp4zKL.mjs",
-    "src": "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/pdfjs-dist/build/pdf.worker.min.mjs"
-  },
-  "index.html": {
-    "file": "assets/index-DF81EF0Q.js",
-    "name": "index",
-    "src": "index.html",
-    "isEntry": true,
-    "dynamicImports": [
-      "../../../../../../../Users/mac/vue-learning-app/knowledge-base-pwa/node_modules/@huggingface/transformers/dist/transformers.web.js"
-    ],
-    "css": [
-      "assets/index-H81Ai13H.css"
-    ],
-    "assets": [
-      "assets/pdf.worker.min-Ccmp4zKL.mjs"
-    ]
+    "src": "node_modules/pdfjs-dist/build/pdf.worker.min.mjs"
   }
 }
